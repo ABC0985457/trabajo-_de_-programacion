@@ -1,14 +1,7 @@
 # trabajo-_de_-programacion
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>OldBeauty</title>
-    <style>
-        body {
-            background-image: url("https://www.okchicas.com/wp-content/uploads/2018/07/productos-coreanos.jpg");
-            background-repeat: no-repeat;
-            background-size: cover;
-            background-position: center;
+OldBeauty
+("https://www.okchicas.com/wp-content/uploads/2018/07/productos-coreanos.jpg");
+            
         }
     </style>
 </head>
